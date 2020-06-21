@@ -9,10 +9,6 @@ import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-import app.newsrocket.Recent;
-import app.newsrocket.MainActivity;
-import app.newsrocket.R;
-
 public class Search extends AppCompatActivity {
 
     @Override
